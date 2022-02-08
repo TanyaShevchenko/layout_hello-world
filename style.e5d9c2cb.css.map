@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,YACE,aAAc,CACd,gBACF,CAEA,6DAIE,eACF,CAEA,QACE,WACF","file":"style.e5d9c2cb.css","sourceRoot":"..\\src","sourcesContent":[".form-field {\n  display: block;\n  padding-top: 10px;\n}\n\n.personalInformation,\n.registration,\n.interestingFact,\n.addInfo {\n  margin-top: 20px;\n}\n\n.button {\n  margin: 20px;\n}\n"]}
